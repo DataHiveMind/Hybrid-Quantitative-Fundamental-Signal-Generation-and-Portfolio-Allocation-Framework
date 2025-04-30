@@ -1,0 +1,1 @@
+# Hybrid-Quantitative-Fundamental-Signal-Generation-and-Portfolio-Allocation-Framework
