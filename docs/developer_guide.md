@@ -1,0 +1,3 @@
+This file outlines the guidelines and best practices that developers should follow when contributing to the project. 
+
+It would cover coding standards (e.g., style guides, naming conventions), version control workflows (e.g., Git branching strategy), testing procedures (e.g., unit testing, integration testing), code review process, and any other relevant information to ensure code quality and consistency.
